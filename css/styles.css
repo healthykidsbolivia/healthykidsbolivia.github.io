@@ -1,0 +1,54 @@
+body {
+  padding-top: 5rem;
+}
+.bg-light {
+  background-color: #fff !important;
+  border-bottom: 1px solid #28a745;
+}
+a,
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link,
+.modal-body h5 {
+  color: #28a745;
+}
+a:hover,
+.navbar-light .navbar-brand:hover,
+.navbar-light .navbar-nav .nav-link:hover,
+i.fa:hover,
+.modal-body strong {
+  color: #eb7616;
+}
+.btn-success:hover {
+  background-color: #eb7616;
+  border-color: #eb7616;
+}
+.jumbotron {
+  background-color: #fff;
+}
+.hkb-info {
+  background-color: #f8f8f8;
+}
+.hkb-info .btn,
+.btn-success {
+  cursor: pointer;
+}
+.hkb-img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 25px;
+}
+.modal .hkb-img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+footer {
+  color: #28a745;
+  border-top: 1px solid #28a745;
+}
+footer a {
+  color: #28a745;
+}
+i.fa:hover {
+}
